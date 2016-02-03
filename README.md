@@ -1,2 +1,2 @@
 # react-native-stopwatch
-Simple iOS stopwatch module on react native. 
+Simple iOS stopwatch module on React Native. 
